@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-Please run the backedn fNodeJS application in a terminal. Once a port is open, modify the data by using Insomnia.
+Please run the backend NodeJS application in a terminal. Once a port is open, modify the data by using Insomnia.
 ![alt screenshot](./image.gif)
 
 ## Credits
