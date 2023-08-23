@@ -26,6 +26,7 @@ Please run the backend NodeJS application in a terminal. Once a port is open, mo
 ## Credits
 
 Credit to Coding Bootcamp.
+Code source: https://github.com/coding-boot-camp/fantastic-umbrella
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
